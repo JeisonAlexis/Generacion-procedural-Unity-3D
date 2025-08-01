@@ -27,8 +27,8 @@ Proyecto desarrollado en Unity inspirado en la generación procedural de mundos 
 
 
 ## ▶️ **Trailer**  
-<a href="https://www.youtube.com/watch?v=8-ZmSIuK3M8" target="_blank">
-  <img src="https://img.youtube.com/vi/8-ZmSIuK3M8/hqdefault.jpg" width="950" height="700" alt="Ver video">
+<a href="https://www.youtube.com/watch?v=tyPDoehDxLA" target="_blank">
+  <img src="https://img.youtube.com/vi/tyPDoehDxLA/hqdefault.jpg" width="950" height="700" alt="Ver video">
 </a>
 
 
