@@ -1,6 +1,6 @@
 # 🌍 Generacion procedural estilo voxel (Minecraft) 🌍
 
-Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como *Minecraft*. Utiliza algoritmos de **Perlin Noise** para crear terrenos únicos en cada generacion, esto es una modificacion a otro proyecto (Data Miner): https://github.com/JeisonAlexis/DataMiner-Unity-3D-
+Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como *Minecraft*. Utiliza algoritmos de **Perlin Noise** para crear terrenos únicos en cada generacion, esto es una modificacion a otro proyecto (DataMiner): https://github.com/JeisonAlexis/DataMiner-Unity-3D-
 
 
 ## 🛠️ Tecnologías utilizadas
@@ -10,17 +10,20 @@ Proyecto desarrollado en Unity inspirado en la generación procedural de mundos 
 - Perlin Noise para generación de mapas
 
 ## 📷 **Capturas del juego**
-- Menu principal
-![Captura](imgs/menu_principal.png)
 
 - Generacion procedural
 <div align="center">
   <img src="imgs/principal.png" width="800" />
-  <img src="imgs/mundo.png" width="800" />
+  <img src="imgs/chunk.png" width="800" />
 </div>
 
-- Chunk
-![Captura](imgs/chunk.png)
+- Direccion de guardado de chunks
+<div align="center">
+  <img src="imgs/guardado.png" width="800" />
+</div>
+
+- Sistema de renderizado de mesh optimizado
+![Captura](imgs/mesh_optimizada.png)
 
 
 ## ▶️ **Trailer**  
@@ -49,5 +52,5 @@ Proyecto desarrollado en Unity inspirado en la generación procedural de mundos 
 
 **Autor**
 - Jeison Alexis Rodriguez Angarita 🙍‍♂️
-- Modificacion del proyecto DataMiner (eliminando la Gamificacion y optimizando la generacion de chunks) 👨‍🎓
+- Modificacion del proyecto DataMiner (eliminando la Gamificacion y optimizando la generacion de chunks)
 - 2025 📅 
