@@ -29,13 +29,13 @@ Proyecto desarrollado en Unity inspirado en la generación procedural de mundos 
 ## ▶️ **Trailer**  
 
 <div align="center">
-  <a href="https://youtu.be/tyPDoehDxLA">
+  <a href="https://youtu.be/N3VnFYpXEY4">
     <img src="imgs/principal.png" alt="PROYECTO SMS GATEWAY" width="600">
   </a>
 
   <br>
 
-  <a href="https://youtu.be/tyPDoehDxLA">
+  <a href="https://youtu.be/N3VnFYpXEY4">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 
